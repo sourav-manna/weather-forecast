@@ -1,3 +1,4 @@
+//js 
 document.querySelector(".search-box").addEventListener("input", async (e) => {
     const days = [
       "sunday",
