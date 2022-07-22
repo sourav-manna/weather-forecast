@@ -1,6 +1,3 @@
-//Complete the Weather API Backend part using openweathermap api
-//Complete the Weather API Backend part using openweathermap api
-//Complete the Weather API Backend part using openweathermap api
 document.querySelector(".search-box").addEventListener("input", async (e) => {
     const days = [
       "sunday",
